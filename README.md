@@ -1,8 +1,6 @@
 # InspireAR
 
-THIS PROJECT WAS CREATED DURING HACK THE 6IX 2020 WITH ARYAN DHAR, CONNOR BURNS AND SALVADOR NERI.
-MY MAIN CONTRIBUTION WAS THE COMPANION MOBILE APP, WHICH CAN BE FOUND UNDER THE XCODE PROJECT FOLDER.
-THE ORIGINAL REPOSITORY CAN BE FOUND AT: https://github.com/dhararya/InspireAR
+This project was created during Hack the 6ix 2020 in a small team. My main contribution was the companion mobile app, which can be found under the Xcode project folder. The original repository can be found at: https://github.com/dhararya/InspireAR
 
 People struggle to work effectively in a home environment, so we were looking for ways to make it more engaging. Our team came up with the idea for InspireAR because we wanted to design a web app that could motivate remote workers be more organized in a fun and interesting way. Augmented reality seemed very fascinating to us, so we came up with the idea of InspireAR.
 
